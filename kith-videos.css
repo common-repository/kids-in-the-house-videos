@@ -1,0 +1,37 @@
+.kithambassador{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+text-decoration: none;
+font-size: 12px;
+margin: 5px;
+padding: 5px;
+}
+
+
+.kithambassador iframe{
+margin: 0px;
+padding: 0px;
+}
+
+.kithambassador a.kithlink:link, .kithambassador a.kithlink:visited, .kithambassador a.kithlink:active{
+  text-decoration: none;
+  color: red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4px;
+}
+
+.kithambassador a.kithlink:hover{
+color: grey;
+}
+
+.kith-video-embed{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px !important;
+  padding: 0px;
+}
